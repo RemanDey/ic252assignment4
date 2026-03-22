@@ -9,7 +9,7 @@
 
 | File | Description |
 |------|-------------|
-| `INPHO_Statistics_Problems.html` | Main problem set — open in any browser |
+| `index.html` | Main problem set — open in any browser through the link: https://remandey.github.io/ic252assignment4 |
 
 ---
 
